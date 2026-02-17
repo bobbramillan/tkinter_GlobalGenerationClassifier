@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python main.py
+python classifier.py
 ```
 
 1. Select a Country from the dropdown
