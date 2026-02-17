@@ -23,7 +23,7 @@ python classifier.py
 2. Enter an Age
 3. Click **Classify**
 
-## Generations
+## Global Generations
 
 | Generation | Birth Years |
 |------------|-------------|
