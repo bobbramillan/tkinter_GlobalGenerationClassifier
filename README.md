@@ -33,3 +33,14 @@ python classifier.py
 | Gen Z | 2000 – 2009 |
 | Gen Alpha | 2010 – 2019 |
 | Gen Beta | 2020 – 2029 |
+
+## Continents of the Globe
+
+| Continents |
+|------------|
+| Asia |
+| Africa |
+| Oceania |
+| Europe |
+| America |
+| Antartica |
