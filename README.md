@@ -1,6 +1,6 @@
 # Global Generation Classifier
 
-A simple desktop app that tells you which generation someone belongs to based on their age and country.
+A simple desktop app that tells you which generation and continent someone belongs to based on their age and country.
 
 ## Requirements
 
