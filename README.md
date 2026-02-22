@@ -1,4 +1,4 @@
-# Global (non-US) Generation Classifier
+# Global (non-U.S.) Generation Classifier
 
 A simple desktop app that tells you which generation and continent someone belongs to based on their age and country.
 
