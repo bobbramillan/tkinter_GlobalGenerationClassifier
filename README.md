@@ -42,5 +42,5 @@ python classifier.py
 | Africa |
 | Oceania |
 | Europe |
-| America |
+| Americas |
 | Antartica |
