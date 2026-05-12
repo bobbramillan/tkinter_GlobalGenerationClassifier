@@ -44,3 +44,38 @@ python classifier.py
 | Europe |
 | Americas |
 | Antartica |
+
+
+# Continents and Their Regions
+
+## Asia
+- East Asia
+- South Asia
+- Southeast Asia
+- Central Asia
+- West Asia (Middle East)
+- North Asia
+
+## Africa
+- North Africa
+- West Africa
+- Central Africa
+- East Africa
+- Southern Africa
+
+## Oceania
+- Australasia
+- Melanesia
+- Micronesia
+- Polynesia
+
+## Americas
+- Northern America
+- Central America
+- Caribbean
+- South America
+
+## Antarctica
+- East Antarctica
+- West Antarctica
+- Antarctic Peninsula
