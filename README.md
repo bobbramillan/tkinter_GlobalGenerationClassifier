@@ -70,7 +70,7 @@ python classifier.py
 - Polynesia
 
 ## Americas
-- Northern America
+- North America
 - Central America
 - Caribbean
 - South America
