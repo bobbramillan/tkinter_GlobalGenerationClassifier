@@ -69,6 +69,13 @@ python classifier.py
 - Micronesia
 - Polynesia
 
+## Europe
+- Northern Europe
+- Southern Europe
+- Eastern Europe
+- Western Europe
+- Central Europe
+
 ## Americas
 - North America
 - Central America
